@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science,Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/KumarRahul07?tab=repositories](https://github.com/KumarRahul07?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/KumarRahul07?tab=repositories](https://github.com/KumarRahul07)
 
 - 📫 How to reach me **rk7033251@gmail.com**
 
